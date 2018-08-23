@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for https://mahstudio.github.io/</title>
+  <link>https://mahstudio.github.io/</link>
+
+<item>
+     <link>https://mahstudio.github.io/</link>
+     <title>Mah Studio</title>
+     <description>Mah Studio is a software development team focused on Microsoft technologies and latest design trends</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://mahstudio.github.io/aboutus.html</link>
+     <title>Mah Studio | About us</title>
+     <description>We are a remote team of senior developers, senior designers and insiders of the community!</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://mahstudio.github.io/service.html</link>
+     <title>Mah Studio | Services</title>
+     <description>Here you can see what Mah Studio can offer. Mah studio offers Research, Graphic Design, Software Development, Video production and product support.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://mahstudio.github.io/portfolio.html</link>
+     <title>Mah Studio | Portfolio</title>
+     <description>Here you can see the best of Mah Studio. Denna, WikiSeda, BrainStudio, Windows 10 concepts and so on!</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://mahstudio.github.io/index.html</link>
+     <title>Mah Studio</title>
+     <description>Mah Studio is a software development team focused on Microsoft technologies and latest design trends</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  
